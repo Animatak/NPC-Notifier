@@ -1,4 +1,4 @@
-# NPC-Notifier
+# NPC-Notifier [TL-Pro]
 
 It can be used to find an NPC you are looking for.
 You will be notified in Chat when it appears and it will also draw an arrow that will take you to it.
